@@ -1,5 +1,5 @@
 <?php 
-//variable example
+//variable example (no var no let)
 $newVar = "Hello";
 
 //switch with endswitch syntactic sugar
