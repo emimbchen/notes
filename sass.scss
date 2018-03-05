@@ -1,0 +1,14 @@
+//variables
+//underscore means it doesnt compile by its self
+//create variables in _config.scss
+//bring into main style sheet w/ 
+@import config;
+//good practice to have sections in variables
+//header
+$header-height: 100px;
+$header-background-color: $color-brand;
+//colors postfix color
+$base-color: #333;
+$brand-color: red;
+$brand-80-color: rgba($color-brand, 0.8);
+$accent-color: yellow;
